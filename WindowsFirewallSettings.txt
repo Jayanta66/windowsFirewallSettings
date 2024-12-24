@@ -2,6 +2,9 @@ OUTBOUND RULES FOR WINDOWS FIREWALL :
 
 C:\Users\jayha\AppData\Local\Programs\Git\cmd\git.exe
 
+Outbound Rules for Git with Github internet connection:
+allow port : 443
+
 C:\Program Files\Google\Chrome\Application\chrome.exe
 
 C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
