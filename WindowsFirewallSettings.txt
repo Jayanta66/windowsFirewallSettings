@@ -8,3 +8,7 @@ C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
 
 Outbound Rules for Teams internet connection:
 allow port : 443
+
+C:\Program Files\WindowsApps\Microsoft.WindowsStore_22411.1401.5.0_x64__8wekyb3d8bbwe\WinStore.App.exe
+
+C:\Windows\System32\svchost.exe
