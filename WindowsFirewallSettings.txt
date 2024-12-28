@@ -22,6 +22,10 @@ C:\Program Files\WindowsApps\Microsoft.WindowsStore_22411.1401.5.0_x64__8wekyb3d
 
 C:\Windows\System32\svchost.exe
 
+####################
+OUTBOUND RULES FOR WINDOWS FIREWALL block All ports
+
+
 
 ###################
 
