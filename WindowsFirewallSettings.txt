@@ -7,6 +7,8 @@ allow port : 443
 
 C:\Program Files\Google\Chrome\Application\chrome.exe
 
+C:\Program Files (x86)\Google\GoogleUpdater\132.0.6833.0\updater.exe
+
 C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
 
 C:\Program Files\WindowsApps\MSTeams_24295.605.3225.8804_x64__8wekyb3d8bbwe\ms-teams.exe
