@@ -11,6 +11,8 @@ C:\Program Files (x86)\Google\GoogleUpdater\132.0.6833.0\updater.exe
 
 C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
 
+edge://flags/
+
 C:\Program Files\WindowsApps\MSTeams_24295.605.3225.8804_x64__8wekyb3d8bbwe\ms-teams.exe
 
 Outbound Rules for Teams internet connection:
@@ -19,3 +21,13 @@ allow port : 443
 C:\Program Files\WindowsApps\Microsoft.WindowsStore_22411.1401.5.0_x64__8wekyb3d8bbwe\WinStore.App.exe
 
 C:\Windows\System32\svchost.exe
+
+
+###################
+
+netstat -aon | find /i "listening"
+
+
+ Determine port assignment via cmd.exe "netstat -ano" and Windows Task Manager display details with PID
+
+netstat -ano
