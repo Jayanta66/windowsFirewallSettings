@@ -1,0 +1,19 @@
+sudo install iptables
+
+Now check your firewall by following command:
+
+iptables -L
+
+NOw block incoming trafick :
+
+iptables -A INPUT -S 192.168.43.84 -j DROP
+
+To Remove all rules :
+
+iptables -F
+
+
+##Open gufu to block inboud and outbound
+
+gufw
+
