@@ -17,3 +17,10 @@ iptables -F
 
 gufw
 
+
+DNS over HTTPS  in firefox:
+
+Setting > General > Network Setting > Settings > Enable DNS over HTTPS
+
+
+
